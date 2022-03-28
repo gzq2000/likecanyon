@@ -1,5 +1,5 @@
 
-//![images](https://github.com/likecanyon/likecanyon/blob/main/images/asimo-photo1-full.jpg)
+##![images](https://github.com/likecanyon/likecanyon/blob/main/images/asimo-photo1-full.jpg)
 
 Hi,I am GZQ!
 
