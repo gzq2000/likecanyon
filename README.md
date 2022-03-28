@@ -1,7 +1,6 @@
 
-##![images](https://github.com/likecanyon/likecanyon/blob/main/images/asimo-photo1-full.jpg)
 
-Hi,I am GZQ!
+Hi, I am GZQ,a postgraduate student at the Shenyang Institute of Automation, Chinese Academy of Sciences.
 
 contact me:
 https://likecanyon.github.io/  
