@@ -4,5 +4,5 @@ Hi, I am GZQ,a postgraduate student at the State Key Laboratory of Robotics,Shen
 
 contact me:
 https://likecanyon.github.io/  
-email：1174578375@qq.com
+email：gaoziqi21@mails.ucas.ac.cn
 
