@@ -1,6 +1,6 @@
 
 
-Hi, I am Likecanyon,a postgraduate student at the State Key Laboratory of Robotics,Shenyang Institute of Automation/University of Chinese Academy of Sciences, Chinese Academy of Sciences.
+Hi, I am Likecanyon,a beginner in robotics.
 
 Homepage:
 https://likecanyon.github.io/  
