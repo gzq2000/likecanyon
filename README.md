@@ -1,6 +1,6 @@
 
 
-Hi, I am Likecanyon,a beginner in robotics. ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=likecanyon.visitor-badge)
+Hi, I am Likecanyon,a beginner in robotics.
 --
 Homepage:
 https://likecanyon.github.io/  
